@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm legacy!
 
-<!--
-**rosessix/rosessix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate fullstack developer with a love for clean UI, clever backend solutions, and building meaningful tools.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: `DayDream` — a Twitter-like social app
+- 🌱 I’m learning: advanced React patterns, WebSockets, and clean architecture
+- 👨‍💻 Tech I enjoy: React, Node.js, MySQL, TailwindCSS, TypeScript
+- 🎯 Goal: Build real tools people love to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My GitHub Stats
+
+![legacy' GitHub stats](https://github-readme-stats.vercel.app/api?username=rosessix&show_icons=true&theme=radical)
+
+## 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,tailwind,ts,nodejs,mysql,git" />
